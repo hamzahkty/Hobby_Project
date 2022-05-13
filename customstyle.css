@@ -1,0 +1,37 @@
+  body {
+    background-color: rgb(26, 25, 25);
+    }
+
+  #header {
+    color: aliceblue;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: groove;
+  }
+
+  #panel-container {
+    
+  }
+  
+  #panel1 {
+    background-color: aliceblue;
+    /*text-align: center;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 50px;
+    border-radius: 5px;*/
+  }
+
+  #panel2 {
+    background-color: aliceblue;
+    float: right;
+    }
+
+  #panel3 {
+    background-color: aliceblue;
+    float:left;    
+  }
+  
+  
